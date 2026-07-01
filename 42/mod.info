@@ -1,0 +1,8 @@
+name=Forage Fix
+author=Undefined
+id=ForageFixExhaustion
+modversion=1.0
+versionMin=41.0
+poster=
+description=Corrects the calculation for the Fatigue and Tiredness penalty. The previous calculation is probably wrong and punishes the player significantly worse than what the devs probably had intended
+url=
