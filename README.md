@@ -1,6 +1,6 @@
 ﻿# Forage Fix
 
-Fixes an issue in Project Zomboid where a player was getting heavily penalized for being exhausted
+Fixes an issue in Project Zomboid where a player was getting heavily penalized for being exhausted while foraging.
 
 Problem can be found in `forageSystem.lua:1774`
 
